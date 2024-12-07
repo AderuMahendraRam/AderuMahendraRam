@@ -2,7 +2,6 @@
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" />][Facebook]
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AderuMahendraRam&repo=AderuMahendraRam&countColorcountColor&countColor=%237B1E7A)
 
