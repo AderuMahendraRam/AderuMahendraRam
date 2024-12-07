@@ -57,5 +57,4 @@ IND Banglore India. 🚀 **Fullstack Developer**
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AderuMahendraRam&layout=compact)
 
 [twitter]: https://twitter.com/aderumahendra
-[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
-[Facebook]: https://www.facebook.com/ItsTimeTo.AmRs/
+[LinkedIn]: https://www.linkedin.com/in/aderumahendra/
